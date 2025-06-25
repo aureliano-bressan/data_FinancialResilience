@@ -61,8 +61,8 @@ print(df.head())
 If you use this dataset, please cite the original study or dataset source (add citation here).
 
 ## License
-
-OpenSource. 
+Financial Inclusion &amp; Money Management Dataset  by Oliveira, N.A.; Bressan, A.A; Vieira, K.M. is marked CC0 1.0. To view a copy of this mark, visit https://creativecommons.org/publicdomain/zero/1.0/
+ 
 
 ## Contact
 
