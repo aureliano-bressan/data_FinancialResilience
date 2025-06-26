@@ -1,6 +1,6 @@
 # Financial Inclusion & Money Management Dataset
 
-This dataset (`final_model_20_items.csv`) contains anonymized survey responses collected to study financial inclusion, money management, and social support indicators across different demographic groups.
+This dataset (`final_model_20_items.csv`) contains anonymized survey responses collected to study financial inclusion, money management, and social support indicators across different demographic groups for the 5 geographic areas in Brazil (North, Northeast, South, Southest and Central-West).
 
 ## Dataset Description
 
